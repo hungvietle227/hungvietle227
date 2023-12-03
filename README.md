@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Viet Hung</h1>
-###
 <br clear="both">
 <h2 align="left">👨‍💻Personal</h2>
-###
 <h2 align="left">🔭 I’m used to doing Project Zoo Management Application<br>🌱 I’m currently learning FPT UNIVERSITY<br>👨‍💻 All of my projects are available at https://github.com/hungvietle227<br>📫 How to reach me leviethung220703@gmail.com</h2>
-###
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
