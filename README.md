@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">🌱 I’m currently learning FPT UNIVERSITY<br><br>🔭 I’m used to doing Project Zoo Management Application<br><br>📫 How to reach me leviethung220703@gmail.com</h2>
+<h2 align="left">🌱 I’m currently learning FPT UNIVERSITY<br><br>🔭 I’m used to doing Project Zoo Application and GiaSuHocTap<br><br>📫 How to reach me leviethung220703@gmail.com</h2>
 
 ###
 
